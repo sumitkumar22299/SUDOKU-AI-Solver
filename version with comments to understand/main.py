@@ -5,7 +5,7 @@ import keras
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 from keras.models import load_model
-
+#########
 from solve_puzzle import solve, check_if_solvable, verify
 
 try:
