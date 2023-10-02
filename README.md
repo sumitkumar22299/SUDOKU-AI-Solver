@@ -30,3 +30,5 @@ arguments:
 - Webcam solver cannot detect when a new puzzle has entered the frame, will try to warp the solution of the first puzzle it sees onto any subsequent puzzles
 - OCR predictions are very spotty for hand written digits and stylized fonts
 - Cannot solve puzzles that don't have a distinguishable four-point outer border
+
+- Need to install all dependencies carefully.
